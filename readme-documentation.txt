@@ -1,0 +1,1 @@
+Para el puntoi 1 y 2 se utilizó Java 8 y en el punto 3 se impletmentó un entorno virtual en el cual no es necesario instalar dependencias, siemplemente correr el activate y ejecutar el comando python main.py
